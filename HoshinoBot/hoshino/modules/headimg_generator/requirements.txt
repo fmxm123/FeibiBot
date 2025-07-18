@@ -1,0 +1,8 @@
+aiocqhttp
+httpx
+meme_generator
+pypinyin
+pydantic
+pyyaml
+arclet-alconna
+strenum
