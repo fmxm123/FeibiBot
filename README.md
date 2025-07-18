@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/github/license/fmxm123/FeibiBot)
-![Python](https://img.shields.io/badge/python-3.8+-blue)
+![Python](https://img.shields.io/badge/python-3.10.8-blue)
 ![Issues](https://img.shields.io/github/issues/fmxm123/FeibiBot)
 ![Stars](https://img.shields.io/github/stars/fmxm123/FeibiBot?style=social)
 
